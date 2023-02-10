@@ -4,3 +4,4 @@ A Minecraft Mod that added a simplified command to clean up items quickly.
 
 Instead of/kill @e [type=item], you can enter/clit command to quickly clean items.  
 你可以输入/clit指令来快速清理物品，用于代替/kill @e[type=item].  
+[![logo.png](https://i.postimg.cc/h48hcDVD/logo.png)](https://postimg.cc/hhjK0qC6)  
