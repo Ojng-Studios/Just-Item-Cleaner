@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "jic",
+    "name": "JustItemCleaner",
+    "description": "Added a simplified command to clean up items quickly.",
+    "version": "0.0.1",
+    "credits": "BT, MCr",
+    "logoFile": "assets/jic/textures/logo.png",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/ojng-studios",
+    "updateUrl": "",
+    "authorList": [
+      "BunnmimiTotem"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
