@@ -57,12 +57,12 @@ public class CommandKillit extends ElementsJustItemCleaner.ModElement {
 
 		@Override
 		public String getName() {
-			return "clit";
+			return "itcl";
 		}
 
 		@Override
 		public String getUsage(ICommandSender var1) {
-			return "/clit [<arguments>]";
+			return "/itcl [<arguments>]";
 		}
 
 		@Override

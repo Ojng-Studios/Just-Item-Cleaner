@@ -45,7 +45,7 @@ import java.util.function.Supplier;
 @Mod(modid = JustItemCleaner.MODID, version = JustItemCleaner.VERSION)
 public class JustItemCleaner {
 	public static final String MODID = "jic";
-	public static final String VERSION = "0.0.1";
+	public static final String VERSION = "0.0.2";
 	public static final SimpleNetworkWrapper PACKET_HANDLER = NetworkRegistry.INSTANCE.newSimpleChannel("jic:a");
 	@SidedProxy(clientSide = "net.busituteng.jic.ClientProxyJustItemCleaner", serverSide = "net.busituteng.jic.ServerProxyJustItemCleaner")
 	public static IProxyJustItemCleaner proxy;

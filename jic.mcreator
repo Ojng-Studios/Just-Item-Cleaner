@@ -6,7 +6,7 @@
       "type": "procedure",
       "sortid": 1,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -34,7 +34,7 @@
       "type": "command",
       "sortid": 1,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "ids": {}
     }
   ],
@@ -47,7 +47,7 @@
   "workspaceSettings": {
     "modid": "jic",
     "modName": "JustItemCleaner",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Added a simplified command to clean up items quickly.",
     "author": "BunnmimiTotem",
     "websiteURL": "https://github.com/ojng-studios",
